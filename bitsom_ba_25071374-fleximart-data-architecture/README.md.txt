@@ -4,7 +4,7 @@
 **Module:** AI Data Architecture Design and Implementation  
 
 **Student Name:** Princy Mishra  
-**Student ID:**   
+**Student ID:**  [bitsom_ba_25071374]
 **Email:** [princymishra116@gmail.com]  
 
 ---
@@ -168,6 +168,8 @@ mysql -u root -p fleximart_dw < part3-datawarehouse/analytics_queries.sql
 
 📎 Author
 -- Princy Mishra
+
+
 
 
 
